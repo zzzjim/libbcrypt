@@ -5,7 +5,7 @@
 #include "winbcrypt.h"
 #else
 
-#include "bcrypt.h"
+#include "libbcrypt.h"
 #include <string>
 #include <stdexcept>
 
